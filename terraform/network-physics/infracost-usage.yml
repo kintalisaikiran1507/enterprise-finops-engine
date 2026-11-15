@@ -1,0 +1,4 @@
+version: 0.1
+resource_usage:
+  aws_nat_gateway.prod_nat:
+    monthly_data_processed_gb: 50000
